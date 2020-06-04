@@ -39,4 +39,3 @@ def cheapest_cost(weight):
 
 cheapest_cost(4.8)
 cheapest_cost(41.5)
-
